@@ -11,7 +11,7 @@
 -->Aplicația combină trei funcționalități principale:
      ~ organizarea task-urilor zilnice (planner),
      ~ monitorizarea stilului de viață (somn, apă, stare),
-     ~ afișarea unui citat motivațional și setarea unui obiectiv zilnic.
+  
 
 ***Funcționalități principale***
 
