@@ -1,8 +1,8 @@
 
 
-**Proiectare Interfețe Utilizator — Lucrare de laborator 7** 
+#Proiectare Interfețe Utilizator — Lucrare de laborator 7** 
 ----------------------------------------------------------------
-# Numele Aplicatiei  - LittleLife/DailyMe/MyDay
+*Numele Aplicatiei  - LittleLife/DailyMe/MyDay*
  
 # Descrierea aplicației
 
