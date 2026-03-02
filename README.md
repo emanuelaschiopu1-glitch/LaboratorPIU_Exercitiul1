@@ -2,13 +2,13 @@
 
 #Proiectare Interfețe Utilizator — Lucrare de laborator 7
 ----------------------------------------------------------------
-***Numele Aplicatiei***  - LittleLife/DailyMe/MyDay
+***Numele Aplicatiei***  - MyDay (sau DailyMe / LittleLife)
  
 ***Descrierea aplicației***
 
--->Aplicația se numește **LittleLife/DailyMe/MyDay** și are scopul de a ajuta utilizatorul să își organizeze activitățile zilnice, să își monitorizeze stilul de viață și să își stabilească un obiectiv zilnic.
+-->Aplicația se numește MyDay și are scopul de a ajuta utilizatorul să își organizeze activitățile zilnice, să își monitorizeze stilul de viață și să își stabilească un obiectiv zilnic.
 
--->Aplicația combină trei funcționalități principale:
+-->Aplicația combină doua funcționalități principale:
      ~ organizarea task-urilor zilnice (planner),
      ~ monitorizarea stilului de viață (somn, apă, stare),
   
@@ -23,7 +23,7 @@
  2.2 Lifestyle tracker
 - introducerea numărului de ore de somn;
 - introducerea cantității de apă consumată;
-- afișarea unui mesaj de feedback în funcție de datele introduse.
+- afișarea unui mesaj de feedback în funcție de datele introduse. (de exemplu, avertizare dacă utilizatorul nu a dormit suficient sau nu a consumat destulă apă).
 
 ***Concluzie***
 
